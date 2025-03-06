@@ -1,0 +1,14 @@
+{
+    "students": [
+        {
+            "name": "Claire Marie Butong","age": 20,"course": "Information Technology"
+        },
+        {
+            "name": "Mark Daniel Obsioma","age": 22,"course": "Computer Science"
+        },
+        {
+            "name": "Jhon Michael Cabasa","age": 19,"course": "Data Science"
+        }
+    ]
+   }
+   
